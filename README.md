@@ -619,7 +619,7 @@ Future features under consideration:
 
 ## 👨‍💻 Author
 
-**Jdhdx**
+**[MichaelCode-tech](https://github.com/MichaelCode-tech/)**
 
 For questions, feedback, or suggestions, please open an issue on GitHub.
 
