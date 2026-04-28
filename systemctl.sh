@@ -2,7 +2,7 @@
 
 ################################################################################
 # SYSTEMD SERVICE MANAGER TOOL
-# Author: sheild_tech
+# Author: MichaelCode-tech
 # Comprehensive utility for managing systemd services across Linux
 ################################################################################
 
@@ -20,7 +20,7 @@ print_header() {
     clear
     echo -e "${CYAN}╔════════════════════════════════════════════════════════╗${NC}"
     echo -e "${CYAN}║${NC}        ${BLUE}SYSTEMD SERVICE MANAGER${NC}                       ${CYAN}║${NC}"
-    echo -e "${CYAN}║${NC}              ${MAGENTA}by sheild_tech${NC}                         ${CYAN}║${NC}"
+    echo -e "${CYAN}║${NC}              ${MAGENTA}by MichaelCode-tecg${NC}                         ${CYAN}║${NC}"
     echo -e "${CYAN}╚════════════════════════════════════════════════════════╝${NC}"
     echo ""
 }
