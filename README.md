@@ -107,7 +107,7 @@ systemctl --version
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Jdhdx/Systemctl-Manager-Pro.git
+git clone https://github.com/MichaelCode-tech/Systemctl-Manager-Pro.git
 cd Systemctl-Manager-Pro
 ```
 
